@@ -22,7 +22,7 @@ body {
   font-size: 16px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   nav {
     position: fixed !important;
     width: 0%;
@@ -56,6 +56,3 @@ body {
 .match span {
   font-size: clamp(0.5rem, 0.5rem + 0.5vw, 1rem);
 }
-
-
-/* ======== Marquee ======== */
